@@ -1,4 +1,4 @@
-# forecasting-app-fashhtml
+# forecasting-app-fasthtml
 Forecasting App using FastHTML
 
 ## Setup
